@@ -2214,6 +2214,7 @@ MonoBehaviour:
   gameComplete: {fileID: 529302866}
   lipe: {fileID: 1453914201}
   progressBar: {fileID: 1884731466}
+  icons: {fileID: 1113816642}
 --- !u!1 &676054706
 GameObject:
   m_ObjectHideFlags: 0
@@ -3195,7 +3196,7 @@ PrefabInstance:
     - target: {fileID: 4613884375188134413, guid: 80460e2c152b22043b7be82cd4bdd630,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 333
+      value: 263
       objectReference: {fileID: 0}
     - target: {fileID: 4613884375188134413, guid: 80460e2c152b22043b7be82cd4bdd630,
         type: 3}
@@ -4234,7 +4235,7 @@ PrefabInstance:
     - target: {fileID: 4228848672802292714, guid: 997a9c1dcafa69244a2c52d672153205,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -333
+      value: -263
       objectReference: {fileID: 0}
     - target: {fileID: 4228848672802292714, guid: 997a9c1dcafa69244a2c52d672153205,
         type: 3}

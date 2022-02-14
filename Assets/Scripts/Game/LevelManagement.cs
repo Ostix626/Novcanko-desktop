@@ -21,7 +21,7 @@ public class LevelManagement : MonoBehaviour
 	public AudioSource audioSourceN;
 	public AudioClip audioClipN;
 
-	public GameObject gameComplete, lipe, progressBar;
+	public GameObject gameComplete, lipe, progressBar, icons;
 
 	public float getGivenNumver()
     {
@@ -42,6 +42,7 @@ public class LevelManagement : MonoBehaviour
 		//loadedLevels = (difficulty == "EasyGame") ? levelList.easy : levelList.hard;
 		givenTxt.enabled = (PlayerPrefs.GetString("helpTextVisibilty") == "true");
 		progressBar.SetActive((PlayerPrefs.GetString("helpBarVisibilty") == "true"));
+		icons.SetActive((PlayerPrefs.GetString("helpBarVisibilty") == "true"));
 
 		//maxLevel = loadedLevels.Count - 1;
 		//currentLevel = System.Math.Max(0, loadedLevels.FindIndex(NotCompleted));
