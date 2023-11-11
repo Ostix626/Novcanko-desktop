@@ -539,7 +539,7 @@ GameObject:
   - component: {fileID: 136011689}
   - component: {fileID: 136011693}
   m_Layer: 8
-  m_Name: kn100
+  m_Name: kn50
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Predao si 0kn
+  m_text: Predao si 0 EUR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ceac338da6f13034ba9defb6fe197937, type: 2}
   m_sharedMaterial: {fileID: -4063558678131208952, guid: ceac338da6f13034ba9defb6fe197937,
@@ -990,7 +990,7 @@ GameObject:
   - component: {fileID: 239034550}
   - component: {fileID: 239034554}
   m_Layer: 8
-  m_Name: kn50
+  m_Name: kn20
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1245,7 +1245,7 @@ GameObject:
   - component: {fileID: 418030759}
   - component: {fileID: 418030763}
   m_Layer: 8
-  m_Name: kn10
+  m_Name: kn5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2777,7 +2777,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Potrebno je platiti 0kn
+  m_text: Potrebno je platiti 0 EUR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ceac338da6f13034ba9defb6fe197937, type: 2}
   m_sharedMaterial: {fileID: -4063558678131208952, guid: ceac338da6f13034ba9defb6fe197937,
@@ -3558,7 +3558,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 277, y: -101}
+  m_AnchoredPosition: {x: 186.2, y: -150}
   m_SizeDelta: {x: 72, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1476560657
@@ -5112,7 +5112,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1855645111
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5217,7 +5217,7 @@ GameObject:
   - component: {fileID: 1860342426}
   - component: {fileID: 1860342430}
   m_Layer: 8
-  m_Name: kn20
+  m_Name: kn10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5632,7 +5632,7 @@ GameObject:
   - component: {fileID: 2054894667}
   - component: {fileID: 2054894671}
   m_Layer: 8
-  m_Name: kn200
+  m_Name: kn100
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
